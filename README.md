@@ -1,1 +1,1 @@
-# Detect-Pneumonia---X-ray-images
+# Detect-Pneumonia-X-ray images
